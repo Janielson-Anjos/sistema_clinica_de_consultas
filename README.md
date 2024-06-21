@@ -54,6 +54,7 @@ Este projeto é um sistema de agendamento de consultas para uma clínica, desenv
     - Cancelamento de Consultas: Validamos se o índice do agendamento selecionado é válido antes de permitir o cancelamento.
 
 **Interface de Usuário**
+
     - A interface de usuário é baseada em um menu de texto simples, o que facilita o uso por qualquer pessoa, mesmo sem conhecimentos técnicos. Cada funcionalidade é claramente apresentada e fácil de acessar.
 
 ### Fluxo do Programa ###
